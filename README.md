@@ -37,6 +37,6 @@ El proyecto fue construido y registrado a través de **4 commits obligatorios**:
 
 ---
 
-## ✒️ Autor
+## Autor
 
 * **Estudiante:** Reinel Fabian Vargas Mendez
