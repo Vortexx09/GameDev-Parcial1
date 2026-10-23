@@ -1,5 +1,5 @@
 # GameDev-Parcial1
-# Práctica de Unity: Mapa de Normales e Iluminación 🎨🎮
+# Práctica de Unity: Mapa de Normales e Iluminación
 
 Este repositorio contiene la solución al ejercicio práctico de Unity sobre la aplicación de **Normal Maps**, materiales y fuentes de luz puntuales.
 
@@ -32,7 +32,8 @@ El proyecto fue construido y registrado a través de **4 commits obligatorios**:
 
 ## Vista Previa
 
-/home/lenovo/Imágenes/Capturas de pantalla/Captura desde 2026-10-22 22-19-41.png
+<img width="1920" height="1200" alt="imagen" src="https://github.com/user-attachments/assets/5cde094c-1a76-4811-a78a-66cc450561c0" />
+
 
 ---
 
